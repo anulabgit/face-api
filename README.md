@@ -1,8 +1,8 @@
 # face-api
 
-실행방법
-npm install http-server
-http-server
+실행방법<br>
+npm install http-server<br>
+http-server<br>
 
 사용 방법
 1. 실행방법을 통해 node. JS를 작동시킨다. <br>
